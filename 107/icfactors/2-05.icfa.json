@@ -1,9 +1,61 @@
 {
     "AX": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0007673886605310384,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-497",
+                "uuid": "12e77f76-1424-43b1-904d-c2ad9f758d38"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-498",
+                "uuid": "3fcb10a9-e2d2-488a-903f-5417815b0404"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-499",
+                "uuid": "82fef969-4f13-483d-a345-8e9176d888b6"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-500",
+                "uuid": "ce7bbc04-0c72-4cad-998c-2575da28865d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-503",
+                "uuid": "838439d4-f3fa-4281-8334-94f655b9dabd"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-504",
+                "uuid": "d0bd7915-0d48-4794-9998-f443d63930b9"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-505",
+                "uuid": "7b8cfced-7b77-4329-86e4-a49d2d13ec8c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-506",
+                "uuid": "fc28f765-662d-452c-bb9d-c0d4d5aa7395"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-507",
+                "uuid": "2ec76900-503d-4d88-bc5f-1e7f41add499"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-508",
+                "uuid": "ba04ee4d-7ad3-48c3-b623-330ac9b6dd02"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.9969242087993924
     },
     "H1": {
         "error": 0.0,
@@ -18,15 +70,119 @@
         "value": 1.0
     },
     "L1": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0015520872948949804,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-497",
+                "uuid": "12e77f76-1424-43b1-904d-c2ad9f758d38"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-498",
+                "uuid": "3fcb10a9-e2d2-488a-903f-5417815b0404"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-499",
+                "uuid": "82fef969-4f13-483d-a345-8e9176d888b6"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-500",
+                "uuid": "ce7bbc04-0c72-4cad-998c-2575da28865d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-503",
+                "uuid": "838439d4-f3fa-4281-8334-94f655b9dabd"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-504",
+                "uuid": "d0bd7915-0d48-4794-9998-f443d63930b9"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-505",
+                "uuid": "7b8cfced-7b77-4329-86e4-a49d2d13ec8c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-506",
+                "uuid": "fc28f765-662d-452c-bb9d-c0d4d5aa7395"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-507",
+                "uuid": "2ec76900-503d-4d88-bc5f-1e7f41add499"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-508",
+                "uuid": "ba04ee4d-7ad3-48c3-b623-330ac9b6dd02"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.9937691619264787
     },
     "L2": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.002348225839034741,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-497",
+                "uuid": "12e77f76-1424-43b1-904d-c2ad9f758d38"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-498",
+                "uuid": "3fcb10a9-e2d2-488a-903f-5417815b0404"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-499",
+                "uuid": "82fef969-4f13-483d-a345-8e9176d888b6"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-500",
+                "uuid": "ce7bbc04-0c72-4cad-998c-2575da28865d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-503",
+                "uuid": "838439d4-f3fa-4281-8334-94f655b9dabd"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-504",
+                "uuid": "d0bd7915-0d48-4794-9998-f443d63930b9"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-505",
+                "uuid": "7b8cfced-7b77-4329-86e4-a49d2d13ec8c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-506",
+                "uuid": "fc28f765-662d-452c-bb9d-c0d4d5aa7395"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-507",
+                "uuid": "2ec76900-503d-4d88-bc5f-1e7f41add499"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-508",
+                "uuid": "ba04ee4d-7ad3-48c3-b623-330ac9b6dd02"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.9905577834607144
     }
 }
