@@ -1,0 +1,113 @@
+{
+    "acquisition_software": "pychron 20.1.1",
+    "aliquot": 8,
+    "analysis_type": "unknown",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "",
+    "commit": "db36a4544589575621fa305e76f2d4856a14310a",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1.1",
+    "detectors": {
+        "AX": {
+            "deflection": 80.0,
+            "gain": 1.02339
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": 1.0
+        },
+        "H2": {
+            "deflection": 80.0,
+            "gain": 1.0108647
+        },
+        "L1": {
+            "deflection": 320.0,
+            "gain": 1.0186281
+        },
+        "L2": {
+            "deflection": 115.0,
+            "gain": 1.0444
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "20211221",
+    "experiment_type": "Ar/Ar",
+    "extraction": "argus_CO2analysis.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "1445",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "C",
+    "irradiation_position": 3,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L1",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "AX",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H2",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": 0.0,
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": 0.0,
+    "mass_spectrometer": "Argus",
+    "material": "Biotite",
+    "measurement": "argus_unknown600_180_Faradays.py",
+    "post_equilibration": "argus_pump_v1_300_turbo.py",
+    "post_measurement": "argus_pump_ms.py",
+    "principal_investigator": "ANGL",
+    "project": "Unirradiated",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Unirradiated",
+    "rlocation": "",
+    "sample": "HD-B1",
+    "source": {
+        "emission": 625.405,
+        "trap": 199.042
+    },
+    "spec_sha": "b45833d67b90a54044476509e881e519c9c415f6",
+    "timestamp": "2021-12-25T03:06:28.111825",
+    "tripped_conditional": null,
+    "unit": "",
+    "username": "root",
+    "uuid": "2520725b-7acf-432c-bf3e-1802165ad129",
+    "whiff_result": null
+}
